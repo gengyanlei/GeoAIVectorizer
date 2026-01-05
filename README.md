@@ -20,15 +20,22 @@
 * ...
 
 
-## Reference usage
+## v1.0 Reference usage C/S(2023-2024)
 * Python
 * PaddleOCR
-* GDAL
+* GDAL 
 * GeoPadnas
 * QT for Python(pyside6)
 * opencv-python
 * pyproj
 * skimage
+* yolov8 or owner's cv algorithm
 
-
+## v2.0 Reference usage C/S or B/S (TODO 2026-)
+* qwen3-vl or not
+* mcp or not
+* agent or not
+* pyqgis 
+* ollama or xinference
+* fastapi or not
 
