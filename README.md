@@ -35,13 +35,13 @@
 | Point symbol detection | Self-developed CV algorithm | N/A |
 | CUDA | 11.2 | 12.9 |
 | Geographic registration & projection | Not supported | Supported |
-| OCR capability | Basic recognition (geological-domain datasets + models) | Tiled prediction, grayscale image prediction, ROI region filtering |
+| OCR capability | Professional model, full-image prediction | Professional model, tiled prediction, grayscale image prediction, ROI filtering |
 | Line vectorization | AI-OCR-assisted interference removal | More powerful line vectorization |
 | Grid line filtering, line simplification & other features | Partially supported | Supported |
-| Inversion of geochemical results | Not supported | Supported (more complex functions) |
+| Inversion of geochemical results | Not supported | Supported (more complex functions...) |
 
 
-### v3.0 (TODO)
+### v3.0 (TODO 2027)
 * Planned (more complex features)
 * qwen3-vl or not
 * mcp or not
